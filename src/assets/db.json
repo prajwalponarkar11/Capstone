@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "location": "New York",
+      "mobileNumber": "1234567890"
+    },
+    {
+      "id": 2,
+      "email": "jane.smith@example.com",
+      "password": "password456",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "location": "Los Angeles",
+      "mobileNumber": "0987654321"
+    },
+    {
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "location": "New York",
+      "mobileNumber": "1234567890",
+      "id": 3
+    },
+    {
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "location": "New York",
+      "mobileNumber": "1234567890",
+      "id": 4
+    },
+    {
+      "email": "prajwalponarkar11@gmail.com",
+      "password": "password123",
+      "firstName": "Prajwal",
+      "lastName": "P",
+      "location": "New York",
+      "mobileNumber": "8951197176",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Tab",
+      "description": "Samsung Tab",
+      "manufacturer": "Samsung",
+      "price": 12000,
+      "quantity": 2,
+      "id": 1742060825467
+    }
+  ]
+}
